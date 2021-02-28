@@ -24,7 +24,7 @@ Quick installation instructions for OSX:
     git clone https://github.com/tilemill-project/tilemill.git
     cd tilemill
     nvm install lts/carbon
-    nvm use v8.15.0
+    nvm use v8.17.0
     npm install
     npm start
 
